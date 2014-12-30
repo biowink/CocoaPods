@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage     = "http://www.localytics.com"
   s.license      = { :type => "Copyright", :file => "Localytics-iOS-3.0.0/LICENSE" }
   s.authors      = { "Char Software, Inc. d/b/a Localytics" => "support@localytics.com" }
-  s.source       = { :http => "http://downloads.localytics.com/SDKs/iOS/v3/Localytics-iOS-3.0.0.zip" }
+  s.source       = { :http => "http://downloads.localytics.com/SDKs/iOS/Localytics-iOS-3.0.0.zip" }
   s.platform     = :ios, "6.0"
   s.source_files = "Localytics-iOS-3.0.0/*.h"
   s.preserve_paths = "Localytics-iOS-3.0.0/libLocalytics.a"
