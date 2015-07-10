@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.name         = "Localytics WatchKit"
+  s.name         = "Localytics-WatchKit"
   s.version      = "3.4.0"
   s.summary      = "Localytics WatchKit SDK"
   s.description  = "Localytics analytics and marketing platform"
@@ -30,6 +30,6 @@ Pod::Spec.new do |s|
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.requires_arc = true
-  s.xcconfig     = { "LIBRARY_SEARCH_PATHS" => "\"$(PODS_ROOT)/Localytics/Localytics-iOS-WK-3.4.0\"" }
+  s.xcconfig     = { "LIBRARY_SEARCH_PATHS" => "\"$(PODS_ROOT)/Localytics-WatchKit/Localytics-iOS-WK-3.4.0\"" }
 
 end
