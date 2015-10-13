@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.author       = { "Char Software, Inc. d/b/a Localytics" => "support@localytics.com" }
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.platform     = :ios, "8.0"
+  s.platform     = :ios, "6.0"
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.source       = { :http => "http://downloads.localytics.com/SDKs/iOS/Localytics-iOS-WK-3.4.0.zip" }
