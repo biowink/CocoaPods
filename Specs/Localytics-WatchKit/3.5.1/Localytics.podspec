@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.name         = "Localytics-WatchKit"
-  s.version      = "3.5.1.2"
+  s.version      = "3.5.1.1"
   s.summary      = "Localytics WatchKit SDK"
   s.description  = "Localytics analytics and marketing platform"
   s.homepage     = "http://www.localytics.com"
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "8.0"
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.source       = { :http => "https://localytics.artifactoryonline.com/localytics/sdk-ios-release-candidates/3.5.1/RC2/Localytics-iOS-WK-3.5.1.zip" }
+  s.source       = { :http => "https://localytics.artifactoryonline.com/localytics/sdk-ios-release-candidates/3.5.1/RC1/Localytics-iOS-WK-3.5.1.zip" }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.source_files = "Localytics-iOS-WK-3.5.1/*.h"
